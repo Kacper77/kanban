@@ -1,0 +1,7 @@
+body {
+	background-color: grey;
+}
+.card-placeholder {
+	height: 1.5em;
+	background: green;
+}
