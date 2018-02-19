@@ -1,18 +1,49 @@
 body {
-	background-color: grey;
+	background-color: #b2bec3
+}
+h1 {
+	background-color: #4fc4f2;
+	color: white;
+	text-align: center;
+	border-radius: 25px;
 }
 .card-placeholder {
-	background: green;
+	background: #fdcb6e;
 }
 .board {
-	width: 1500px;
-	background-color: green;
-	text-align: center;
+	background-color: #448bb5;
+	border-radius: 25px;
 }
 .column {
-	background: yellow;
+	background-color: #00f2ff;
+	color: white;
+	border-radius: 25px;
 }
 .create-column {
-	height: 35px;
-	background-color: red;
+	text-align: center;
+	height: 40px;
+	background-color: #00b894;
+	font-size: 20px;
+	border-radius: 25px;
+}
+.column-container {
+	background-color: #0083ff;
+	border-radius: 25px;
+}
+h2 {
+	text-align: center;
+	background-color: #29a9bc;
+	border-radius: 25px;
+	font-size: 30px;
+}
+.btn-delete {
+	background-color: #d63031;
+	border-radius: 50%;
+	margin: 5px;
+}
+.add-card {
+	background-color: #00b894;
+	border-radius: 25px;
+	margin: 5px;
+	padding: 5px;
 }
